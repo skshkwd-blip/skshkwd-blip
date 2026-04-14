@@ -1,4 +1,4 @@
-# 💫 In A Nutshell
+## 💫 In A Nutshell
 
 💡 DSA · 🗄️ SQL · 📊 Data Science ✅ · 🤖 AI in progress · Data-driven thinker
 
