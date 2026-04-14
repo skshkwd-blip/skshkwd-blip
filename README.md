@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 CS Student passionate about problem solving and data
+- 🎓 IT Student passionate about problem solving and data
 - 💻 Strong in DSA — love tackling algorithmic challenges
 - ☕ Currently learning Java & OOP concepts
 - 📊 Completed Data Science — now diving deep into AI/ML
