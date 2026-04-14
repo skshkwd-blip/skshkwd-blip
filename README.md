@@ -1,4 +1,4 @@
-# Hi there, I'm Sakshi 👋
+# Sakshi
 
 💡 DSA · 🗄️ SQL · 📊 Data Science ✅ · 🤖 AI in progress · Data-driven thinker
 
