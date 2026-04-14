@@ -1,10 +1,7 @@
-# Sakshi
+# 💫 In A Nutshell
 
 💡 DSA · 🗄️ SQL · 📊 Data Science ✅ · 🤖 AI in progress · Data-driven thinker
 
----
-
-### 🧠 About Me
 - 🎓 IT Student passionate about problem solving and data
 - 💻 Strong in DSA — love tackling algorithmic challenges
 - ☕ Currently learning Java & OOP concepts
